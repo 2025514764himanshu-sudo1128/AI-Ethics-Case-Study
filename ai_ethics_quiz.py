@@ -1,7 +1,4 @@
 # ============================================================
-# EXPERIMENT 10: AI Ethics, Safety and Biases — Interactive
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 class QuizError(ValueError):
