@@ -1,8 +1,5 @@
 # Experiment 10: AI Ethics, Safety, and Biases in Mechanical Systems
 
-**Subject:** AI in Mechanical Engineering (ONT406)  
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
