@@ -1,8 +1,5 @@
 # Experiment 10: AI Ethics, Safety and Biases in Mechanical Systems
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -42,8 +39,8 @@ GitHub renders Markdown beautifully with tables and formatting.
 
 **Option 2 — In VS Code:**
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp10-AI-Ethics-Case-Study.git
-cd Exp10-AI-Ethics-Case-Study
+git clone https://github.com/2025514764himanshu-sudo1128/AI-Ethics-Case-Study.git
+cd AI-Ethics-Case-Study
 code ai_ethics_notes.md
 ```
 Then press `Ctrl + Shift + V` in VS Code to preview Markdown.
